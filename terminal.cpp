@@ -2,7 +2,7 @@
 //  terminal.cpp
 //  arm64injector
 //
-//  Created by Derek Li on 9/5/23.
+//  Created by Derek  on 9/5/23.
 //
 
 #include "terminal.hpp"
